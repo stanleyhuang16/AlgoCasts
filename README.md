@@ -2,7 +2,6 @@
 
 Companion repo to [The Coding Inteview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
 
-# All Coding Exercises
 1. String Reversal
 2. Palindromes
 3. Integer Reversal
