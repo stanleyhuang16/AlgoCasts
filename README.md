@@ -2,11 +2,11 @@
 
 Companion repo to [The Coding Inteview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
 
-- [ ] 1. String Reversal
-- [ ] 2. Palindromes
-- [ ] 3. Integer Reversal
-- [ ] 4. Max Chars
-- [ ] 5. FizzBuzz
+- [x] 1. String Reversal
+- [x] 2. Palindromes
+- [x] 3. Integer Reversal
+- [x] 4. Max Chars
+- [x] 5. FizzBuzz
 - [ ] 6. Array Chunk
 - [ ] 7. Anagrams
 - [ ] 8. Capitalization
