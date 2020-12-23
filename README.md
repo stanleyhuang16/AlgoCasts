@@ -8,7 +8,7 @@ Companion repo to [The Coding Inteview Bootcamp: Algorithms + Data Structures](h
 - [x] 4. Max Chars
 - [x] 5. FizzBuzz
 - [x] 6. Array Chunk
-- [ ] 7. Anagrams
+- [x] 7. Anagrams
 - [ ] 8. Capitalization
 - [ ] 9. Steps
 - [ ] 10. Pyramids
