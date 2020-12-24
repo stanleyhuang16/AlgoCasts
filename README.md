@@ -9,7 +9,7 @@ Companion repo to [The Coding Interview Bootcamp: Algorithms + Data Structures](
 - [x] 5. FizzBuzz
 - [x] 6. Array Chunk
 - [x] 7. Anagrams
-- [ ] 8. Capitalization
+- [x] 8. Capitalization
 - [ ] 9. Steps
 - [ ] 10. Pyramids
 - [ ] 11. Finding Vowels
