@@ -10,7 +10,7 @@ Companion repo to [The Coding Interview Bootcamp: Algorithms + Data Structures](
 - [x] 6. Array Chunk
 - [x] 7. Anagrams
 - [x] 8. Capitalization
-- [ ] 9. Steps
+- [x] 9. Steps
 - [ ] 10. Pyramids
 - [ ] 11. Finding Vowels
 - [ ] 12. Matrix Spiral
