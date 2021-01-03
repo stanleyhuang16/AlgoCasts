@@ -11,7 +11,7 @@ Companion repo to [The Coding Interview Bootcamp: Algorithms + Data Structures](
 - [x] 7. Anagrams
 - [x] 8. Capitalization
 - [x] 9. Steps
-- [] 10. Pyramids :x:
+- [ ] 10. Pyramids :x:
 - [x] 11. Finding Vowels
 - [ ] 12. Matrix Spiral :x: :question:
 - [ ] 13. Fibonacci Series :x: 
