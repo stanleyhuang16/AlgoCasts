@@ -15,7 +15,7 @@ Companion repo to [The Coding Interview Bootcamp: Algorithms + Data Structures](
 - [x] 11. Finding Vowels
 - [ ] 12. Matrix Spiral :x: :question:
 - [ ] 13. Fibonacci Series :x: 
-- [ ] 14. Queue
+- [ ] 14. Queue :x: :question:
 - [ ] 15. Peek
 - [ ] 16. Weave
 - [ ] 17. Implementing Stacks
