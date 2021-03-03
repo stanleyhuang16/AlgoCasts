@@ -9,17 +9,19 @@
 //     q.remove(); // returns 1;
 
 class Queue {
-  constructor() {
-    this.data = [];
-  }
+	constructor() {
+		this.data = [];
+	}
 
-  add(el) {
-    this.data.unshift(el);
-  }
+  // why add at the beginning? should be .push(el)
+	add(el) {
+		this.data.unshift(el);
+	}
 
-  remove() {
-    return this.data.pop();
-  }
+  // why remove at the end? should be .unshift()
+	remove() {
+		return this.data.pop();
+	}
 }
 
 module.exports = Queue;
