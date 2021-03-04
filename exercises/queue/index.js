@@ -13,15 +13,19 @@ class Queue {
 		this.data = [];
 	}
 
-  // why add at the beginning? should be .push(el)
+	// why add at the beginning? should be .push(el)
 	add(el) {
 		this.data.unshift(el);
 	}
 
-  // why remove at the end? should be .unshift()
+	// why remove at the end? should be .unshift()
 	remove() {
 		return this.data.pop();
 	}
 }
+
+const q = new Queue();
+console.log(q.add(1));
+console.log(q.remove()); // returns 1;
 
 module.exports = Queue;
