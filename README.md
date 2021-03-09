@@ -18,7 +18,7 @@ Companion repo to [The Coding Interview Bootcamp: Algorithms + Data Structures](
 - [ ] 14. Queue :x: :question:
 - [ ] 15. Peek :x: :question:
 - [ ] 16. Weave :x: :question:
-- [ ] 17. Implementing Stacks
+- [x] 17. Implementing Stacks
 - [ ] 18. Queue From Stacks
 - [ ] 19. Linked Lists
 - [ ] 20. Midpoint
